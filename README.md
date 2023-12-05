@@ -21,3 +21,9 @@ Dependencies
 -scikit-learn
 -matplotlib
 -seaborn
+
+Acknowledgments
+
+This project is inspired by a competitive data science challenge, and the code structure and techniques used are a result of collaboration and learning from the broader data science community.
+
+Feel free to contribute, raise issues, or provide feedback to enhance the robustness and effectiveness of the predictive model. Happy coding!
